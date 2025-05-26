@@ -2,6 +2,8 @@
 
 A responsive and lightweight login page built using **HTML**, **CSS**, and **JavaScript**. This template can be used for personal projects, admin panels, or integrated into larger web applications.
 
+> **Click Here to see the Login Webpage** : 
+
 ---
 
 ## ✨ Features
@@ -54,7 +56,12 @@ These are hardcoded for demo/testing purposes:
 
 ⚠️ Please integrate your own backend/authentication logic for production use.
 
+---
+
 ## 📸 Preview
+![Screenshot](https://github.com/gopika-krishnxn/Simple-Login-Page/blob/main/image/)
+
+---
 
 ## 🛠️ Customization
 
