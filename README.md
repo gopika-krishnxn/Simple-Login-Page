@@ -59,7 +59,7 @@ These are hardcoded for demo/testing purposes:
 ---
 
 ## 📸 Preview
-![Screenshot](https://github.com/gopika-krishnxn/Simple-Login-Page/blob/main/image/)
+![Screenshot](https://github.com/gopika-krishnxn/Simple-Login-Page/blob/main/image/Preview.png)
 
 ---
 
